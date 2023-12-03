@@ -13,6 +13,8 @@ Perhaps recipe can specify a 'main' picture that's intended to be the main thumb
 Need to figure out how to organise sources
 I should probably have a list of sources that i cite from instead of doing it from scratch in every file
 
+I should probably have one imaged that's cropped in tight and optimised to be a good thumbnail for browsing
+
 
 
 # References
