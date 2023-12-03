@@ -85,6 +85,9 @@ Hanbit's recipe has some interesting modifications I haven't tried.
     Uses honey (perhaps would have to reduce sugar)
     Vanilla powder (getting it powdered seems like a pain)
 
+I had a lot of trouble getting these things out of the tray intact.
+Not sure what the solution is.
+
 ## Sources
 French Cooking Academy
 youtube
